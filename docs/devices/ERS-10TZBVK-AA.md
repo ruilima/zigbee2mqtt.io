@@ -41,8 +41,8 @@ Device can be set in two modes : COMMAND and EVENT (Current Mode is published on
 
 | User Action  | `action` property |
 | ------------- | ------------- |
-| Rotate Left | Brightness_Step_Up|
-| Rotate Right | Brightness_Step_Down|
+| Rotate Left | Brightness_Step_Down|
+| Rotate Right | Brightness_Step_Up|
 | Single Click | Toggle|
 | HOLD more than 3s | Hue_Move|
 | UnHold button | Hue_Stop|
